@@ -143,6 +143,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["My Emulation Goes to the Moon... Until False Flag"][1094]
 - ["NASA cFS version Aquila Software Vulnerability Assessment"][1056]
 - ["nRF51 RBPCONF bypass for firmware dumping"][1154]
+- ["One‑Click Memory Corruption in Alibaba’s UC Browser: Exploiting patch-gap V8 vulnerabilities to steal your data"][1193]
 - ["Oops! It's a kernel stack use-after-free: Exploiting NVIDIA's GPU Linux drivers"][1186]
 - ["Out-of-bound read in ANGLE CopyNativeVertexData from Compromised Renderer"][1148]
 - ["Overview of Map Exploitation in v8"][1075]
@@ -151,6 +152,7 @@ For a deeper dive into cybersecurity-related tools, check out the dedicated **[C
 - ["Phoenix: Rowhammer Attacks on DDR5 with Self-Correcting Synchronization"][1170]
 - ["Print Scan Hacks: Identifying multiple vulnerabilities acro ss multiple Brother devices"][1136]
 - ["Project Rain:L1TF"][1178]
+- ["Pwn2Own 2025: Pwning Lexmark’s Postscript Processor"][1194]
 - ["Pwn2Own Ireland 2024: Canon imageCLASS MF656Cdw"][1104]
 - ["Pwn2Own Ireland 2024 – Ubiquiti AI Bullet"][1117]
 - ["pyghidra-mcp: Headless Ghidra MCP Server for Project-Wide, Multi-Binary Analysis"][1134]
@@ -2562,3 +2564,5 @@ https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-l
 [1190]: https://www.originhq.com/blog/windows-arm64-internals-deconstructing-pointer-authentication
 [1191]: https://github.blog/security/vulnerability-research/codeql-zero-to-hero-part-4-gradio-framework-case-study/
 [1192]: https://github.blog/security/vulnerability-research/codeql-zero-to-hero-part-5-debugging-queries/?ref=blog.exploits.club
+[1193]: https://www.interruptlabs.co.uk/articles/one-click-memory-corruption-in-alibabas-uc-browser-exploiting-patch-gap-v8-vulnerabilities-to-steal-your-data
+[1194]: https://boredpentester.com/pwn2own-2025-pwning-lexmarks-postscript-processor/
